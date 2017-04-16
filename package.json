@@ -2,7 +2,11 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://georgevs.github.io/my-app",
+  "homepage": "https://georgevs@gmail.com:ggggit543@georgevs.github.io/my-app",
+  "repository": {
+    "type": "git",
+    "url": "git+https://georgevs@gmail.com:ggggit543@github.com/georgevs/my-app.git"
+  },
   "dependencies": {
     "react": "^15.5.4",
     "react-dom": "^15.5.4"
